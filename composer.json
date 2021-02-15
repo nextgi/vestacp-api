@@ -1,0 +1,32 @@
+{
+    "name": "nextgi/vestacp-api",
+    "description": "PHP SDK for the VestaCP style hosting control panels.",
+    "type": "library",
+    "license": "MIT",
+	"authors": [
+		{
+		  "name": "NextGi",
+		  "email": "dev@nextgi.com"
+		},
+		{
+		  "name": "Zak",
+		  "email": "zharding@nextgi.com"
+		}
+	],
+    "require": {
+		"ext-curl": "*",
+		"guzzlehttp/guzzle": "*",
+		"ext-simplexml": "*",
+		"ext-json": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"nextgi\\VestaCP\\": "src/"
+		}
+    },
+	"config": {
+		"bin-dir": "bin"
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
