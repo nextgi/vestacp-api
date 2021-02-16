@@ -1,7 +1,7 @@
 # Description
 This package is designed to work with VestaCP. It is friendly to other version of VestaCP such myVesta and Hestia Control Panel. We cannot guarantee it will be interoperable however, we are making an effort to test.
- * ([Hestia Control Panel](https://www.hestiacp.com/))
- * ([myVESTA](https://www.myvestacp.com/))
+ * [Hestia Control Panel](https://www.hestiacp.com/)
+ * [myVESTA](https://www.myvestacp.com/)
  
 Currently Available API Packages 
 * Dns
