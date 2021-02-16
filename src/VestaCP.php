@@ -45,7 +45,7 @@ class VestaApi
      * @return void
      */
     public function __construct(
-		$host
+		$host,
         $user,
         $password,
         $timeout = 0,
